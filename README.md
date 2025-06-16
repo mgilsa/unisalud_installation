@@ -1,7 +1,8 @@
 # UNI Salud
 
 En este repositorio encontrarás todos los pasos necesarios para la instalación de UNI Salud en tu dispositivo Android. 
-Se ha incluido una versión del archivo APK de la aplicación que no incorpora la protección mediante Firebase App Check. Esta decisión se ha tomado con el objetivo de facilitar la instalación y evaluación de la aplicación por parte del tribunal, ya que App Check requiere una verificación de integridad que puede generar conflictos al instalar el APK fiera de canales oficiales como Google Play Store. Dado que el propósito en esta fase es permitir una corrección sencilla y sin obstáculos técnicos, se ha optado por desactivar temporalmente esta capa de seguridad (únicamente para este APK privado).
+Se ha incluido una versión del archivo APK de la aplicación que no incorpora la protección mediante Firebase App Check. Esta decisión se ha tomado con el objetivo de facilitar la instalación y evaluación de la aplicación por parte del tribunal, ya que App Check requiere una verificación de integridad que puede generar conflictos al instalar el APK fuera de canales oficiales como Google Play Store. 
+Dado que el propósito en esta fase es permitir una corrección sencilla y sin obstáculos técnicos, se ha optado por desactivar temporalmente esta capa de seguridad (únicamente para este APK privado).
 En el resto de entornos de producción esta capa de seguridad mediante AppCheck se encuentra activada.
 
 ## 📱 Instalación
