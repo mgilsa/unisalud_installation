@@ -17,7 +17,7 @@ En el resto de entornos de producción esta capa de seguridad mediante AppCheck 
 > **Nota:** Si tu dispositivo te impide instalar el `.apk`, ve a **Ajustes > Seguridad** y activa **Fuentes desconocidas** o **Instalación de apps desconocidas** para el explorador o gestor de archivos que estés utilizando.
 
 
-### Usuario de prueba
+## 🔒Usuario de prueba
 
 Se proporciona un usuario de prueba para facilitar el acceso a la aplicación sin necesidad de completar todo el proceso de autenticación, en caso de que no se considere necesario.
 
