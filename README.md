@@ -8,7 +8,7 @@ En el resto de entornos de producción esta capa de seguridad mediante AppCheck 
 
 ### Opción 1: Instalar el `.apk` directamente (solo Android)
 
-1. Descarga el archivo [`nombre_app.apk`](./ruta/al/archivo.apk) desde este repositorio.
+1. Descarga el archivo [`unisalud.apk`](./unisalud.apk) desde este repositorio.
 2. Transfiere el archivo a tu dispositivo Android (si estás usando un PC).
 3. Abre el archivo en tu dispositivo y acepta los permisos para instalar aplicaciones desde fuentes externas.
 4. Acepta todos los permisos sobre notificaciones y ubicación para obtener una experiencia de usuario completa.
